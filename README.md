@@ -2,7 +2,7 @@
 An application for the processing and interactive visual analysis of MIDAS tactile graphics data files.
 This application requires MIDAS_logger data files to work (https://github.com/rrgrau/midasLogger)
 
-Created in Java with the Eclipse IDE.
+Created in Java using the Eclipse IDE.
 
 The /bin folder contains a runnable JAR file.
 
