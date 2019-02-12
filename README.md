@@ -3,7 +3,7 @@ Java application for processing and visualising MIDAS tactile graphics data file
 
 Created with the Eclipse IDE.
 
-Use entirely at your own risk.
+This software is supplied as is. Use entirely at your own risk.
 
 This application requires MIDAS_logger data files to work (https://github.com/rrgrau/midasLogger)
 
